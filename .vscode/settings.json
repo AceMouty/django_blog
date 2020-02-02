@@ -2,5 +2,6 @@
   "python.pythonPath": "/home/kyle/.local/share/virtualenvs/django_blog-sXQ7yyKJ/bin/python",
   "python.linting.flake8Enabled": true,
   "python.linting.pylintEnabled": false,
-  "python.linting.enabled": true
+  "python.linting.enabled": true,
+  "emmet.includeLanguages": {"django-html": "html"},
 }
